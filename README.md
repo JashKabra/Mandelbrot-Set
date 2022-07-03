@@ -1,3 +1,3 @@
 # Mandelbrot-Set
 
-C++ Code containing Mandelbrot Zoom using SFM graphics library
+C++ Code containing Mandelbrot Zoom using SFMLgraphics library
